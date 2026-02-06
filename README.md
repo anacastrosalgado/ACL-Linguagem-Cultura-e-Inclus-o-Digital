@@ -23,7 +23,7 @@ O ACL+ responde a este desafio com uma abordagem integrada:
 
 ## Objetivos e eixos estratégicos
 
-O ACL+ organiza-se em quatro eixos:
+O ACL+ organiza-se em quatro eixos
 
 ### Eixo 1 — Acesso e inclusão
 - Democratizar o acesso a conteúdos lexicográficos em acesso aberto.  
