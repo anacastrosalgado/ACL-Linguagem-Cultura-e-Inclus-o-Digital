@@ -13,7 +13,7 @@ O projeto visa assegurar que o conhecimento linguístico e cultural chegue, de f
 
 ## Enquadramento
 
-A **Academia das Ciências de Lisboa (ACL)**, fundada em 1779, tem uma longa tradição de produção de conhecimento científico e cultural. Os seus recursos lexicográficos de referência — o **Dicionário da Língua Portuguesa** e o **Vocabulário Ortográfico da Língua Portuguesa** — constituem um património nacional que importa preservar, atualizar e disponibilizar em acesso aberto.
+A **Academia das Ciências de Lisboa (ACL)**, fundada em 1779, tem uma longa tradição de produção de conhecimento científico e cultural. Os seus recursos lexicográficos de referência — o *Dicionário da Língua Portuguesa* e o *Vocabulário Ortográfico da Língua Portuguesa* — constituem um património nacional que importa preservar, atualizar e disponibilizar em acesso aberto.
 
 Atualmente, mais de um milhão de utilizadores consulta anualmente os recursos lexicais da ACL. Em 2025, o número de consultas do dicionário ultrapassou 2,4 milhões de acessos.
 
