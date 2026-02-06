@@ -64,9 +64,9 @@ Ao longo de três anos, o projeto prevê:
 ### Direção executiva
 - Raquel Silva (Especialista em Lexicografia e Terminologia)
 
-### Equipa
-- Leonor Martins (Bolseira de investigação)  
-- Leonor Reis (Bolseira de investigação)
+### Bolseiras de investigação
+- Leonor Martins
+- Leonor Reis
 
 ### Especialistas
 - Especialistas de várias áreas científicas *(nomes serão disponibilizados em breve)*
